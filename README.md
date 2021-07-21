@@ -1,0 +1,3 @@
+- Frontend & Backend webdeveloper 💻
+- Developing with the php and js 💀 
+- Always eager to meet new people 👨‍👦
