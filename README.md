@@ -2,4 +2,3 @@
 - Developing with the php and js 💀 
 - Always eager to meet new people 👨‍👦
 - Sometimes like to develop games too 🎮
-- Anytime up for a ride 🚲
